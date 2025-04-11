@@ -66,6 +66,8 @@ The Quiz Web Application is a dynamic and engaging platform designed for creatin
 ## Entity Relationship Diagram
 The ER diagram visually represents the relationships between the entities in the database. It ensures a well-structured and modular system design.
 
+![alt text](ER_Diagram.png)
+
 ## Relational Model
 The relational model is derived from the ER diagram and consists of the following tables:
 1. **User**
